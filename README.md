@@ -4,7 +4,6 @@ Saya Nezhad Ahmad Maliki dengan NIM 2503880 mengerjakan Tugas Praktikum 4 pada M
 # Struktur File
 
 ```
-C:.
 ├───.idea
 │       .gitignore
 │       misc.xml
@@ -12,6 +11,13 @@ C:.
 │       tepe4.iml
 │       uiDesigner.xml
 │       workspace.xml
+│
+├───Dokumentasi
+│       disclaimer klo mau apus data.png
+│       isi .form.png
+│       komentar abis input.png
+│       tampilan edit data.png
+│       tampilan input.png
 │
 ├───out
 │   └───production
